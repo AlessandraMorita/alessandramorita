@@ -9,7 +9,7 @@
   <div align="center">
     <a href="https://github.com/alessandramorita">
     <img width="450em" src="https://github-readme-stats.vercel.app/api?username=alessandramorita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
-    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandramorita&layout=compact&langs_count=7&theme=dracula"/>
+    <img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandramorita&layout=compact&langs_count=7&theme=dracula"/>
   </div>
   
 </details>
