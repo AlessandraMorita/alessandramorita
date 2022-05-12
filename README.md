@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi! I'm Alessandra Morita
 
-<!--
-**AlessandraMorita/alessandramorita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Front-end development <br>
+📚 I've a degree in electrical engineering
+  
+ <details>
 
-Here are some ideas to get you started:
+  <summary>📊 My GitHub Stats</summary>
+  <div align="center">
+    <a href="https://github.com/alessandramorita">
+    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=alessandramorita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
+    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandramorita&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+  
+</details>
+  
+  ##
+  
+  <div> 
+    <a href = "mailto:contactalessandramorita@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
