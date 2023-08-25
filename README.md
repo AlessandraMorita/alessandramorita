@@ -1,6 +1,6 @@
 ## Hi! I'm Alessandra Morita
 
-🌱 I’m currently learning Front-end development <br>
+🌱 I’m Front-end developer <br>
 📚 I've a degree in electrical engineering
   
  <details>
